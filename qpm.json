@@ -4,7 +4,7 @@
   "info": {
     "name": "Cinema",
     "id": "cinema",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "url": "https://github.com/bsq-ports/Cinema",
     "additionalData": {
       "overrideSoName": "libcinema.so"
@@ -22,22 +22,22 @@
     },
     {
       "id": "config-utils",
-      "versionRange": "^0.8.0",
+      "versionRange": "^1.0.2",
       "additionalData": {}
     },
     {
       "id": "codegen",
-      "versionRange": "^0.28.0",
+      "versionRange": "^0.33.0",
       "additionalData": {}
     },
     {
       "id": "questui",
-      "versionRange": "^0.17.3",
+      "versionRange": "^0.17.0",
       "additionalData": {}
     },
     {
       "id": "custom-types",
-      "versionRange": "^0.15.21",
+      "versionRange": "^0.15.22",
       "additionalData": {}
     },
     {
